@@ -1,0 +1,18 @@
+{
+  "band": "GOT IT, BYE",
+  "songs": [
+    { "title": "Between Stations", "file": "between-stations.mp3" },
+    { "title": "After the Rain", "file": "after-the-rain.mp3" },
+    { "title": "August, Windows Down", "file": "august-windows-down.mp3" },
+    { "title": "Instructions for Leaving a Room", "file": "instructions-for-leaving-a-room.mp3" },
+    { "title": "With All Due Respect", "file": "with-all-due-respect.mp3" },
+    { "title": "Back in the Room", "file": "back-in-the-room.mp3" },
+    { "title": "Borrowed Electricity", "file": "borrowed-electricity.mp3" },
+    { "title": "Do Fish Know About Thursday?", "file": "do-fish-know-about-thursday.mp3", "repo": "gotitbye-music-2" },
+    { "title": "If You're Still Awake", "file": "if-youre-still-awake.mp3", "repo": "gotitbye-music-2" },
+    { "title": "Not Yet", "file": "not-yet.mp3", "repo": "gotitbye-music-2" },
+    { "title": "Sorry, Wrong Planet", "file": "sorry-wrong-planet.mp3", "repo": "gotitbye-music-2" },
+    { "title": "The Noyes One", "file": "the-noyes-one.mp3", "repo": "gotitbye-music-2" },
+    { "title": "The Shape of the Noise", "file": "the-shape-of-the-noise.mp3", "repo": "gotitbye-music-2" }
+  ]
+}
