@@ -7,7 +7,7 @@ Vocals · Asher Lu / 陆嘉言　Guitar · Jiming Xie / 谢既明　Bass · Elia
 歌分在几个仓库里：jsDelivr 只肯给 50 MB 以内的仓库加速，超了会回 403。
 
 - `gotitbye-music`（这里）：歌单，和前七首
-- `gotitbye-music-2`：后六首
+- `gotitbye-music-2`：后八首（约 46 MB，已经放不下下一首，再加歌请开 `gotitbye-music-3`）
 
 ## 加一首新歌
 
