@@ -15,6 +15,8 @@
     { "title": "The Noyes One", "file": "the-noyes-one.mp3", "repo": "gotitbye-music-2" },
     { "title": "The Shape of the Noise", "file": "the-shape-of-the-noise.mp3", "repo": "gotitbye-music-2" },
     { "title": "Nothing to Report", "file": "nothing-to-report.mp3", "repo": "gotitbye-music-2" },
-    { "title": "Manual Override", "file": "manual-override.mp3", "repo": "gotitbye-music-2" }
+    { "title": "Manual Override", "file": "manual-override.mp3", "repo": "gotitbye-music-2" },
+    { "title": "A Little Longer", "file": "a-little-longer.mp3", "repo": "gotitbye-music-3" },
+    { "title": "One More Street", "file": "one-more-street.mp3", "repo": "gotitbye-music-3" }
   ]
 }
