@@ -8,7 +8,7 @@ Vocals · Asher Lu / 陆嘉言　Guitar · Jiming Xie / 谢既明　Bass · Elia
 
 - `gotitbye-music`（这里）：歌单，和前七首
 - `gotitbye-music-2`：后八首（约 46 MB，已经满了）
-- `gotitbye-music-3`：陆嘉言十五六岁自己写的两首（约 9 MB）；再加歌先放这里
+- `gotitbye-music-3`：陆嘉言自己写的四首（不是乐队的歌，约 20 MB）；再加歌先放这里
 
 ## 加一首新歌
 
